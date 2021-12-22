@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey There Friends I'm Mason 
+
+## About Me
+- I'm a Math Nerd who enjoys tackle difficult problems and playing TTRPGs with my friends
+- I've been working in the tech industry for about 8 years now first as Tech Support then as QA for a Software Testing Company 
+- I'm currently working towards transitioning into a career centered on development particularly in regards to Data Science but I'm always open to learning new things and challenging myself 
+
+You can check out some of my work experience and skills on [My Linkedin Profile](https://www.linkedin.com/in/masonlmenges/] or contact me through e-mail at mason.menges2@gmail.com
+
 
 <!--
 **masonmenges/masonmenges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
