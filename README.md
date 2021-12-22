@@ -5,7 +5,9 @@
 - I've been working in the tech industry for about 8 years now first as Tech Support then as QA for a Software Testing Company 
 - I'm currently working towards transitioning into a career centered on development particularly in regards to Data Science but I'm always open to learning new things and challenging myself 
 
-You can check out some of my work experience and skills on [My Linkedin Profile](https://www.linkedin.com/in/masonlmenges/] or contact me through e-mail at mason.menges2@gmail.com
+[Bloomtech](https://www.bloomtech.com/) has afforded me the opportunity to learn a variety of useful skils including Predictive Data Analysis, Machine Learning, Neural Networks using programming languages such as Python and SQL and tools/libraries like Tensorflow, scikit learn, and pandas.
+
+You can check out some more of my work experience and skills on [My Linkedin Profile](https://www.linkedin.com/in/masonlmenges/] or contact me through e-mail at mason.menges2@gmail.com
 
 
 <!--
