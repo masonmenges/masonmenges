@@ -7,7 +7,7 @@
 
 [Bloomtech](https://www.bloomtech.com/) has afforded me the opportunity to learn a variety of useful skils including Predictive Data Analysis, Machine Learning, Neural Networks using programming languages such as Python and SQL and tools/libraries like Tensorflow, scikit learn, and pandas.
 
-You can check out some more of my work experience and skills on [My Linkedin Profile](https://www.linkedin.com/in/masonlmenges/] or contact me through e-mail at mason.menges2@gmail.com
+You can check out some more of my work experience and skills on [My Linkedin Profile](https://www.linkedin.com/in/masonlmenges/) or contact me through e-mail at mason.menges2@gmail.com
 
 
 <!--
